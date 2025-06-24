@@ -1,0 +1,9 @@
+loan_eligibility_predictor/
+├── data/loan_data.csv                  # Dataset
+├── train_model.py                      # Model training and saving
+├── predict.py                          # CLI prediction
+├── app.py                              # Streamlit UI
+├── model.pkl                           # Trained model
+├── requirements.txt
+├── README.md
+└── .gitignore
